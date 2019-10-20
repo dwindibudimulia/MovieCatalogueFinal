@@ -212,11 +212,15 @@ public class AlarmReceiver extends BroadcastReceiver {
         if (alarmManager != null) {
             alarmManager.cancel(pendingIntent);
         }
-
+//change language to english
         if (type.equalsIgnoreCase(DAILY_REMINDER)) {
-            Toast.makeText(context, "Pengingat Harian dimatikan", Toast.LENGTH_SHORT).show();
+            //typo Toast
+            //Toast Change language from Indonesian to English
+            Toast.makeText(context, "Daily Reminder is turned off", Toast.LENGTH_SHORT).show();
         } else {
-            Toast.makeText(context, "Pengingat Rilis dimatikan", Toast.LENGTH_SHORT).show();
+            //Typo Toast
+            //Toast Change language from Indonesian to English
+            Toast.makeText(context, "Release Reminder is turned off", Toast.LENGTH_SHORT).show();
         }
     }
 }
