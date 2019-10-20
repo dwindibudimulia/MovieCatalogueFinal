@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Favorite App Catalogue</string>
+    <string name="image_poster">Image Poster</string>
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="date">Release Date</string>
+    <string name="genre">Genre</string>
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Indo Movies dan Tv Show</string>
+    <string name="name_movies">Nama Film</string>
+    <string name="name_tv_show">Nama Acara Tv</string>
+    <string name="rating_movie">Rating Film</string>
+    <string name="rating_tv_show">Rating Acara Tv</string>
+    <string name="desc_movies">Ikhtisar</string>
+    <string name="date_movies">Tanggal Rilis Film </string>
+    <string name="date_tv_show">Tanggal Rilis Acara Tv</string>
+    <string name="movies_photo">Foto Film</string>
+    <string name="tv_show_photo">Foto Acara Tv</string>
+    <string name="genre_movies">Aliran</string>
+    <string name="genre_tv_show">Aliran</string>
+    <string name="language">Bahasa</string>
+    <string name="tab_movie">Film</string>
+    <string name="tab_tv">Acara Tv</string>
+    <string name="change_language">Ubah Bahasa</string>
+    <string name="remove"> Dihapus dari Favorite </string>
+    <string name="add">Ditambahkan ke Favorite</string>
+    <string name="empty">Sinopsis tidak ditampilkan oleh penyedia data</string>
+    <string name="search">Pencarian</string>
+    <string name="search_hint"> Masukkan Judul</string>
+    <string name="daily_title">Pengingat Harian</string>
+    <string name="release_today_reminder">Pengingat Rilis Hari Ini</string>
+    <string name="release_today"> rilis hari ini!!</string>
+    <string name="daily_reminder">Jangan lupa buka aplikasi hari ini!!</string>
+    <string name="appwidget_text">Favorite ku</string>
+    <string name="setting">Pengaturan</string>
+</resources>
