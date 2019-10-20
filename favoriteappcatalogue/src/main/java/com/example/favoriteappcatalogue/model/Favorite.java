@@ -18,8 +18,10 @@ public class Favorite implements Parcelable {
     private String rating;
 
     private String description;
-
-    private String releasedate;
+//this is my change
+    //typo releasedate
+    //now releaseDate
+    private String releaseDate;
 
     private String genre;
 
@@ -51,7 +53,7 @@ public class Favorite implements Parcelable {
     }
 
     public String getReleasedate() {
-        return releasedate;
+        return releaseDate;
     }
 
     public String getGenre() {
@@ -88,8 +90,8 @@ public class Favorite implements Parcelable {
         this.description = description;
     }
 
-    public void setReleasedate(String releasedate) {
-        this.releasedate = releasedate;
+    public void setReleasedate(String releaseDate) {
+        this.releaseDate = releaseDate;
     }
 
     public void setGenre(String genre) {
